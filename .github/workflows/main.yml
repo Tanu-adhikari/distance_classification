@@ -10,6 +10,8 @@ jobs:
       with:
         python-version: '3.11'
     - name: Install dependencies
-      run: pip install numpy pandas scikit-learn
+      run: pip install numpy pandas scikit-learn matplotlib OpenCV-python wandb jupyter
     - name: Run test script
       run: python test_script.py
+    - name: Run notebook
+      run: jupyter nbconvert --execute Lab5-Sprin2025.ipynb
