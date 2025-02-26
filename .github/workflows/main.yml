@@ -14,4 +14,4 @@ jobs:
     - name: Run test script
       run: python test_script.py
     - name: Run notebook
-      run: jupyter nbconvert --execute Lab5-Sprin2025.ipynb
+      run: jupyter nbconvert --execute Lab5-Spring2025.ipynb
