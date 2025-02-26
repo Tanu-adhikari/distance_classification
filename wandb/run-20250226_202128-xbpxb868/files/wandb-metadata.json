@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-11-10.0.22631-SP0",
+  "python":  "CPython 3.12.7",
+  "startedAt":  "2025-02-26T14:51:28.980576Z",
+  "program":  "d:\\OneDrive\\Documents\\MLPRLab\\distance_classification\\Lab5-Spring2025.ipynb",
+  "codePath":  "Lab5-Spring2025.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Tanu-adhikari/distance_classification.git",
+    "commit":  "fc885fe32812056366445e8c077e295679f9b1c8"
+  },
+  "email":  "tanu.adhikari.ug23@plaksha.edu.in",
+  "root":  "d:\\OneDrive\\Documents\\MLPRLab\\distance_classification",
+  "host":  "LAPTOP-CTA8OPB3",
+  "executable":  "d:\\OneDrive\\Documents\\Agriculture\\.conda\\python.exe",
+  "codePathLocal":  "Lab5-Spring2025.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "274876854272",
+      "used":  "14206787584"
+    }
+  },
+  "memory":  {
+    "total":  "16857817088"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  12
+  }
+}
